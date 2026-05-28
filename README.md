@@ -42,7 +42,7 @@ A neural network–based prediction method that combines evolutionary informatio
 
 ## ⚙️ Core Features
 
-- Automatic PDB structure fetching
+- Automatic PDB sequence fetching
 - DSSP secondary structure preprocessing and cleanup
 - Prediction via GOR I, GOR IV, or PHD
 - Residue-level alignment between experimental (DSSP) and predicted structures
