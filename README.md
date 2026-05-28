@@ -129,7 +129,7 @@ secondary-structure-prediction/
 ├── GOR_I.py             # GOR I prediction method
 ├── GOR_IV.py            # GOR IV prediction method
 ├── PHD.py               # PHD prediction method
-├── PDB.py               # PDB structure fetching utilities
+├── PDB.py               # PDB sequence fetching utilities
 ├── w_plot.py            # Accuracy visualization and plotting
 ├── requirements.txt     # Python dependencies
 └── README.md
