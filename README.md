@@ -45,7 +45,7 @@ A neural network–based prediction method that combines evolutionary informatio
 - Automatic PDB sequence fetching
 - DSSP secondary structure preprocessing and cleanup
 - Prediction via GOR I, GOR IV, or PHD
-- Residue-level alignment between experimental (DSSP) and predicted structures
+- Residue-level alignment between experimental (DSSP) and predicted secondary structures
 - Q3 accuracy calculation
 - Per-class accuracy breakdown — Helix (H), Strand (E), Coil (C)
 - Interactive bar chart visualization of accuracy
